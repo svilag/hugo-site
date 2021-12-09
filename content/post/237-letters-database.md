@@ -23,7 +23,7 @@ As part of a course on SQL and Databases, I created a database in MySQL from the
 
 1. First I had to design the database. How was I going to normalize this data so that it could be easily queried?
 2. Then, I had to process the data. One CSV had to become six, one for each table that would go into the database.
-3. Once I had my tables set as CSV files, I used JetBrains Datagrip to import the data into my database server.
+3. Once I had my tables set as CSV files, I used JetBrains Datagrip to import the data to my database server.
 4. After the data was in, I set up my keys to ensure my tables were linked.
 5. Ready to query!
 
