@@ -29,7 +29,7 @@ As part of a course on SQL and Databases, I created a database in MySQL from the
 
 ## Execution
 
-![Entity Relationship Diagram](static/img/svilag/ERD_svilag.png)
+![Entity Relationship Diagram](https://raw.githubusercontent.com/svilag/hugo-site/main/content/static/img/svilag/ERD_svilag.png)
 
 > The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
 

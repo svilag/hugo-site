@@ -2,6 +2,7 @@ baseurl = "https://example.org/"
 title = "Shelbie Vilag"
 theme = "hugo-nederburg-theme"
 languageCode = "en-us"
+enableEmoji = true
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
