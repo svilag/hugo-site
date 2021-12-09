@@ -17,6 +17,8 @@ As part of a course on SQL and Databases, I created a database in MySQL from the
 
 **The Data:** The dataset I used included metadata about 237 letters in the Eastern Michigan University Archives that I used as a part of my undergraduate capstone project in History. These letters were sent to Eastern Michigan Regents in protest of Civil Rights Activist Julian Bond speaking at the January 1971 commencement and receiving an Honorary Doctor of Laws degree.
 
+[Download the data](LINK HERE)
+
 **The Process:**
 
 1. First I had to design the database. How was I going to normalize this data so that it could be easily queried?
@@ -27,7 +29,7 @@ As part of a course on SQL and Databases, I created a database in MySQL from the
 
 ## Execution
 
-![static/img/svilag/ERD_svilag.png](Entity Relationship Diagram)
+![Entity Relationship Diagram](static/img/svilag/ERD_svilag.png)
 
 > The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
 
