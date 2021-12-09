@@ -31,14 +31,25 @@ As part of a course on SQL and Databases, I created a database in MySQL from the
 
 ![Entity Relationship Diagram](https://raw.githubusercontent.com/svilag/hugo-site/main/content/static/img/svilag/ERD_svilag.png)
 
-> `SELECT cat.category, cl.letter_id, p.name, c.city, l.quote FROM categories cat JOIN cat_link cl on cat.cat_id=cl.cat_id JOIN letters l on l.letter_id=cl.letter_id JOIN cities c on c.city_id=l.city_id JOIN people_link pl on l.letter_id=pl.letter_id JOIN people p on pl.person_id=p.person_id WHERE cl.letter_id = 160 AND p.role LIKE 'sender';`
+The data I started with was collected in one single CSV file. This obviously needed to be processed so that the data could be imported to a database that would be easy to query. Using a combination of Google sheets and the Python CSV library, I took the original CSV and filtered through the data I needed to in order to create six tables. [Link to Python Notebook](https://deepnote.com/@svilag/564-final-project-data-Ey9oy3grRCiMjgwOmTwzNQ)
 
-> "He is a radical and is bound to infect the minds of the student body. Anarchists, Radicals, Socialists, and Communists should not be allowed on our campuses.
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar." - _P. H. MacBride, from Brighton_
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+
+To test it, I chose some questions that I wanted to know the answers to based on the data, and created queries for those questions. The most fun query to put together required a join of all six tables in the database.
+
+#### What letter was sent for the most reasons? What was the quote?
+
+> **Query:** `SELECT cat.category, cl.letter_id, p.name, c.city, l.quote FROM categories cat JOIN cat_link cl on cat.cat_id=cl.cat_id JOIN letters l on l.letter_id=cl.letter_id JOIN cities c on c.city_id=l.city_id JOIN people_link pl on l.letter_id=pl.letter_id JOIN people p on pl.person_id=p.person_id WHERE cl.letter_id = 160 AND p.role LIKE 'sender';`
+
+> **Quote:** "He is a radical and is bound to infect the minds of the student body. Anarchists, Radicals, Socialists, and Communists should not be allowed on our campuses." &mdash;_P. H. MacBride, from Brighton_
+
+>**Query Results:**
+>![Query Results](https://raw.githubusercontent.com/svilag/hugo-site/main/content/static/img/svilag/query-results.jpg)
 
 * Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 * Aliquam tincidunt mauris eu risus.
 
 When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
+
+The database was executed successfully! :tada:
+
