@@ -84,21 +84,21 @@ paginate = 15 #frontpage pagination
   #rss           = true
 
 # Add a writer, then use it in the markdown front matter like this: writer = "Lukas Herman"
-  # [params.writers]
-  #   [params.writers."Lukas Herman"]
-  #   link = "https://lherman.tk"
-  #   email = "lherman.cs@gmail.com"
-  #   bio = [
-  #     "Lukas has a few skills up his sleve. He can fly blindfolded under a bridge while simultanous writing blog posts."
-  #   ]
-  #   facebook      = "full lukas profile url in facebook"
-  #   googleplus    = "full profile url in googleplus"
-  #   twitter       = "full profile url in twitter"
-  #   linkedin      = "full profile url in linkedin"
-  #   stackoverflow = "full profile url in stackoverflow"
-  #   instagram     = "full profile url in instagram"
-  #   github        = "full profile url in github"
-  #   pinterest     = "full profile url in pinterest"
+  [params.writers]
+    [params.writers."Shelbie Vilag"]
+    link = ""
+    email = "svilag@umich.edu"
+    # bio = [
+    #   "Lukas has a few skills up his sleve. He can fly blindfolded under a bridge while simultanous writing blog posts."
+    # ]
+    # facebook      = "full lukas profile url in facebook"
+    # googleplus    = "full profile url in googleplus"
+    # twitter       = "full profile url in twitter"
+    linkedin      = "https://www.linkedin.com/in/shelbie-vilag-1a55b613b/"
+    stackoverflow = "https://stackoverflow.com/users/17631972/svilag"
+    # instagram     = "full profile url in instagram"
+    github        = "https://github.com/svilag"
+    # pinterest     = "full profile url in pinterest"
 
     # [params.writers."Göran Svensson"]
     # link = "https://appernetic.io/"
