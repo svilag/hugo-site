@@ -17,7 +17,7 @@ As part of a course on SQL and Databases, I created a database in MySQL from the
 
 **The Data:** The dataset I used included metadata about 237 letters in the Eastern Michigan University Archives that I used as a part of my undergraduate capstone project in History. These letters were sent to Eastern Michigan Regents in protest of Civil Rights Activist Julian Bond speaking at the January 1971 commencement and receiving an Honorary Doctor of Laws degree.
 
-[Download the data](LINK HERE)
+[View Raw Data](https://raw.githubusercontent.com/svilag/hugo-site/main/content/static/img/svilag/564_project_data_svilag.csv)
 
 **The Process:**
 

@@ -115,5 +115,7 @@ paginate = 15 #frontpage pagination
     pinterest     = "full profile url in pinterest"
 
 # categories test
-[taxonomies]
-  project = 'projects'
+  [params.taxonomies]
+    Project = 'Projects'
+    SQL = 'SQL'
+    History = 'History'
