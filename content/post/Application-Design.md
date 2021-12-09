@@ -1,35 +1,33 @@
 +++
 draft = true
-image = "static/img/svilag/ERD_svilag.png"
+image = "static/img/svilag/adobexd.jpg"
 showonlyimage = true
 date = "2021-12-09T20:23:59+05:30"
 title = "Interactive Application Design"
 writer = "Shelbie Vilag"
 weight = 11
-tags = ['SQL', 'Databases', 'History']
+tags = ['UX', 'Design', 'Research']
 categories = ['Project']
 +++
 
-As part of a course in Interaction Design, I designed and prototyped an application utilizing different user research techniques including interviews, creating personas, story mapping, creating user flow diagrams, and prototyping in Adobe XD. My prototype focused on helping people with food allergies find places to eat near them that offered allergen friendly options.
+As part of a course in Interaction Design, I designed and prototyped an application utilizing different user research techniques including competitive analysis, interviews, creating personas, story mapping, creating user flow diagrams, and prototyping in Adobe XD. My prototype focused on helping people with food allergies find places to eat near them that offered allergen friendly options.
 <!--more-->
 
-**The assignment:** select a dataset and create a database in MySQL from that data.
+**The assignment:** create an IXD solution surrounding a specific problem (eating well with food allergies), utilizing various research techniques including competitive analysis, interviews, creating personas, story mapping, creating user flow diagrams, and prototyping in Adobe XD.
 
-**The Data:** The dataset I used included metadata about 237 letters in the Eastern Michigan University Archives that I used as a part of my undergraduate capstone project in History. These letters were sent to Eastern Michigan Regents in protest of Civil Rights Activist Julian Bond speaking at the January 1971 commencement and receiving an Honorary Doctor of Laws degree.
+**The Product:** The end result for this project is an interactive prototype created using Adobe XD (or Figma, etc.).
 
-[View Raw Data](https://raw.githubusercontent.com/svilag/hugo-site/main/content/static/img/svilag/564_project_data_svilag.csv)
+[View Prototype Demonstration (download .mp4)](https://github.com/svilag/hugo-site/blob/main/content/static/img/svilag/myhappytummy_prototype.mp4?raw=true)
 
 **The Process:**
 
-1. First I had to design the database. How was I going to normalize this data so that it could be easily queried?
-2. Then, I had to process the data. One CSV had to become six, one for each table that would go into the database.
-3. Once I had my tables set as CSV files, I used JetBrains Datagrip to import the data into my database server.
-4. After the data was in, I set up my keys to ensure my tables were linked.
-5. Ready to query!
+1. First I had to frame the problem I was trying to find a solution for. What are the key issues?
+2. Then, I had to Analyze my framing of that problem. Is there room for revision?
+3. Next I had to get to know my potential users. Who needs this type of solution? What are those needs?
+4. I then took a look at the market. What other products exist that are similar? Who are the main competitors?
+5. The next step, after knowing a bit about the users and the other products available, was creating personas for potential users to conceptualize interactions with this application.
 
 ## Execution
-
-![Entity Relationship Diagram](/static/img/svilag/ERD_svilag.png)
 
 > The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
 
