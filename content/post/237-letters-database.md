@@ -31,9 +31,10 @@ As part of a course on SQL and Databases, I created a database in MySQL from the
 
 ![Entity Relationship Diagram](https://raw.githubusercontent.com/svilag/hugo-site/main/content/static/img/svilag/ERD_svilag.png)
 
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+> `SELECT cat.category, cl.letter_id, p.name, c.city, l.quote FROM categories cat JOIN cat_link cl on cat.cat_id=cl.cat_id JOIN letters l on l.letter_id=cl.letter_id JOIN cities c on c.city_id=l.city_id JOIN people_link pl on l.letter_id=pl.letter_id JOIN people p on pl.person_id=p.person_id WHERE cl.letter_id = 160 AND p.role LIKE 'sender';`
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+> "He is a radical and is bound to infect the minds of the student body. Anarchists, Radicals, Socialists, and Communists should not be allowed on our campuses.
+Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar." - _P. H. MacBride, from Brighton_
 
 The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
 
