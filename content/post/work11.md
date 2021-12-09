@@ -1,9 +1,9 @@
 +++
 draft = false
-image = "img/portfolio/paper-presentation.jpg"
+image = "static/img/svilag/ERD_svilag.png"
 showonlyimage = true
 date = "2018-09-30T20:23:59+05:30"
-title = "Item with image"
+title = "237 Letters in a Database"
 writer = "Göran Svensson"
 weight = 11
 +++

@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "img/portfolio/trifold.jpg"
+image = "static/img/portfolio/trifold.jpg"
 showonlyimage = true
 date = "2018-07-04T20:22:08+05:30"
 title = "Item with image"

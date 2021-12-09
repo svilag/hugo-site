@@ -5,6 +5,7 @@ languageCode = "en-us"
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
+
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
 preserveTaxonomyNames = true
@@ -23,7 +24,7 @@ paginate = 5 #frontpage pagination
 [params]
   # Unmark to use post folder for images. Default is static folder.
   #usepostimgfolder = true
-  slogan = "A fast &amp; secure theme"
+  slogan = "Graduate Student, The University of Michigan"
   description = "Describe your website" # meta description
   # You need to set author to have an author bio. If you have a writer in the markdown file it will override this.
   author = "Göran Svensson"
