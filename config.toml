@@ -9,7 +9,7 @@ disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
 preserveTaxonomyNames = true
-paginate = 5 #frontpage pagination
+paginate = 15 #frontpage pagination
 
 [privacy]
   # Google Analytics privacy settings - https://gohugo.io/about/hugo-and-gdpr/index.html#googleanalytics
