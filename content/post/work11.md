@@ -2,25 +2,27 @@
 draft = false
 image = "static/img/svilag/ERD_svilag.png"
 showonlyimage = true
-date = "2018-09-30T20:23:59+05:30"
+date = "2021-12-06T20:23:59+05:30"
 title = "237 Letters in a Database"
-writer = "Göran Svensson"
+writer = "Shelbie Vilag"
 weight = 11
 +++
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+As part of a course on SQL and Databases, I created a database in MySQL from the data collected from my Undergraduate Capstone project, "_237 Letters_".
 <!--more-->
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+**The assignment:** select a dataset and create a database in MySQL from that data.
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+**The Data:** The dataset I used included metadata about 237 letters in the Eastern Michigan University Archives that I used as a part of my undergraduate capstone project in History. These letters were sent to Eastern Michigan Regents in protest of Civil Rights Activist Julian Bond speaking at the January 1971 commencement and receiving an Honorary Doctor of Laws degree.
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
+**The Process:**
 
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+1. First I had to design the database. How was I going to normalize this data so that it could be easily queried?
+2. Then, I had to process the data. One CSV had to become six, one for each table that would go into the database.
 
 ## Header Level 2
+
+> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
 
 Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
 
