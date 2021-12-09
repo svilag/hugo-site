@@ -34,7 +34,6 @@ As part of a course on SQL and Databases, I created a database in MySQL from the
 The data I started with was collected in one single CSV file. This obviously needed to be processed so that the data could be imported to a database that would be easy to query. Using a combination of Google sheets and the Python CSV library, I took the original CSV and filtered through the data I needed to in order to create six tables. [Link to Python Notebook](https://deepnote.com/@svilag/564-final-project-data-Ey9oy3grRCiMjgwOmTwzNQ)
 
 
-
 To test it, I chose some questions that I wanted to know the answers to based on the data, and created queries for those questions. The most fun query to put together required a join of all six tables in the database.
 
 #### What letter was sent for the most reasons? What was the quote?
