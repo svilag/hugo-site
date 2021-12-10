@@ -1,21 +1,68 @@
 +++
 date = "2016-11-05T21:05:33+05:30"
-title = "About me"
+title = "Resume"
+categories = ['Resume']
+tags = ['Education', 'Experience', 'Volunteer Experience', 'Awards/Recognitions']
 +++
 
-An sincerity so extremity he additions. Her yet **there truth merit**. Mrs all projecting favourable now unpleasing. Son law garden chatty temper. Oh children provided to mr elegance marriage strongly. Off can admiration prosperous now devonshire diminution law.
+Shelbie Vilag is a graduate student at the University of Michigan School of Information studying Information Science, graduating in May 2022. Academic interests include HCI, databases, UX, and digital curation.
 
-Received overcame oh sensible so at an. Formed do change merely to county it. **Am separate contempt** domestic to to oh. On relation my so addition branched. Put hearing cottage she norland letters equally prepare too. Replied exposed savings he no viewing as up. Soon body add him hill. No father living really people estate if. Mistake do produce beloved demesne if am pursuit.
+## Education
 
-![This is me][1]
+### University of Michigan
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+#### Master of Science, Information Science
 
-#### Education
+Activities: |
+:--|
+Google Developer Student Club |
+UM*py*: Python Study Group |
+Michigan Esports |
+Americal Library Association |
+Society of American Archivists |
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
+### Eastern Michigan University
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then
+#### Bachelor of Science, History
 
-[1]: /img/about.jpg
+##### Minors: Historic Preservation, Music
+
+Activities: |
+:-- |
+Undergraduate Symposium |
+Mark Jefferson Symposium Volunteer |
+Marching Band |
+
+## Experience
+
+### Hatcher Graduate Library
+
+#### Library Assistant | September 2020 - Present
+
+libassistant
+
+### Internet Archives
+
+#### Micrifiche Packer | July 2019 - November 2019
+
+internetarch
+
+### Prime Research
+
+#### News Analyst | April 2016 - May 2019
+
+newsanalyst
+
+## Volunteer Experience
+
+### Lake Effect Percussion
+
+#### Cymbal and Visual Technique Instructor
+
+Instruct students on proper visual techniques and teach students how to properly play the cymbals. Supervise rehearsals, and assist with performance shows.
+
+## Awards/Recognitions
+
+- Eastern Michigan History Essay Contest: 2nd place
+- John Phillip Sousa Band Award
+- Student of the Month
