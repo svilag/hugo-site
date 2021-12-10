@@ -7,7 +7,7 @@ title = "Interactive Application Design"
 writer = "Shelbie Vilag"
 weight = 11
 tags = ['UX', 'Design', 'Research']
-categories = ['Project']
+categories = ['Projects']
 +++
 
 As part of a course in Interaction Design, I designed and prototyped an application utilizing different user research techniques including competitive analysis, interviews, creating personas, story mapping, creating user flow diagrams, and prototyping in Adobe XD. My prototype focused on helping people with food allergies find places to eat near them that offered allergen friendly options.
@@ -26,6 +26,9 @@ As part of a course in Interaction Design, I designed and prototyped an applicat
 3. Next I had to get to know my potential users. Who needs this type of solution? What are those needs?
 4. I then took a look at the market. What other products exist that are similar? Who are the main competitors?
 5. The next step, after knowing a bit about the users and the other products available, was creating personas for potential users to conceptualize interactions with this application.
+6. These personas guided me in creating a user flow diagram of how a user could potentially interact with this application.
+7. From that user flow diagram, I was able to create an interaction map of these user interactions.
+8. After
 
 ## Execution
 

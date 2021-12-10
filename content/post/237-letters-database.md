@@ -7,7 +7,7 @@ title = "237 Letters in a Database"
 writer = "Shelbie Vilag"
 weight = 11
 tags = ['SQL', 'Databases', 'History']
-categories = ['Project']
+categories = ['Projects']
 +++
 
 As part of a course on SQL and Databases, I created a database in MySQL from the data collected from my Undergraduate Capstone project, "_237 Letters_".
@@ -17,7 +17,7 @@ As part of a course on SQL and Databases, I created a database in MySQL from the
 
 **The Data:** The dataset I used included metadata about 237 letters in the Eastern Michigan University Archives that I used as a part of my undergraduate capstone project in History. These letters were sent to Eastern Michigan Regents in protest of Civil Rights Activist Julian Bond speaking at the January 1971 commencement and receiving an Honorary Doctor of Laws degree.
 
-[View Raw Data](https://raw.githubusercontent.com/svilag/hugo-site/main/content/static/img/svilag/564_project_data_svilag.csv)
+[Download Raw Data (CSV)](/static/img/svilag/564_project_data_svilag.csv)
 
 **The Process:**
 
@@ -29,7 +29,7 @@ As part of a course on SQL and Databases, I created a database in MySQL from the
 
 ## Execution
 
-![Entity Relationship Diagram](https://raw.githubusercontent.com/svilag/hugo-site/main/content/static/img/svilag/ERD_svilag.png)
+![Entity Relationship Diagram](/static/img/svilag/ERD_svilag.png)
 
 The data I started with was collected in one single CSV file. This obviously needed to be processed so that the data could be imported to a database that would be easy to query. Using a combination of Google sheets and the Python CSV library, I took the original CSV and filtered through the data I needed to in order to create six tables. [Link to Python Notebook](https://deepnote.com/@svilag/564-final-project-data-Ey9oy3grRCiMjgwOmTwzNQ)
 

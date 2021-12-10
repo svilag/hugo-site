@@ -117,7 +117,7 @@ paginate = 15 #frontpage pagination
 
 # categories test
   [params.taxonomies]
-    Project = 'Projects'
+    Projects = 'Projects'
     SQL = 'SQL'
     History = 'History'
     Database = 'Databases'
