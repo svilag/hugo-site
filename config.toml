@@ -61,8 +61,8 @@ paginate = 15 #frontpage pagination
   weight = 1
 
   [[menu.main]]
-  name = "About"
-  url = "about/"
+  name = "Resume"
+  url = "resume/"
   weight = 2
 
   [[menu.main]]
