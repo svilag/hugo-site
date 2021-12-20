@@ -1,6 +1,6 @@
 +++
 draft = true
-image = "static/img/svilag/adobexd.jpg"
+image = "static/img/adobexd.jpg"
 showonlyimage = true
 date = "2021-12-09T20:23:59+05:30"
 title = "Interactive Application Design"
@@ -30,7 +30,7 @@ As part of a course in Interaction Design, I designed and prototyped an applicat
 7. From that user flow diagram, I was able to create an interaction map of these user interactions.
 8. After
 
-## Execution
+## Pulling it All Together
 
 > The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
 
