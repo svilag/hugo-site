@@ -40,12 +40,15 @@ As part of a course in Interaction Design, I designed and prototyped an applicat
 
 ### Competitor Analysis
 
-### Personas
+### Centering the User in the Design
 
-The information gained from my interviews was helpful, and enabled me to formalate some user personas of people who may use the application.
+The information gained from my interviews was helpful, and enabled me to formalate some user personas of people who may use the application. These personas center the design problem around the thing that matters most in desigm: the people using the tools.
 
-![]()
-![]()
-![]()
-![]()
+![](persona)
+![](persona)
+![](persona)
+![](persona)
 
+From these personas, I was able to discern a user flow for the interactoins within the application. 
+
+![](user flow)
