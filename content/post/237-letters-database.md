@@ -27,7 +27,7 @@ As part of a course on SQL and Databases, I created a database in MySQL from the
 4. After the data was in, I set up my keys to ensure my tables were linked.
 5. Ready to query!
 
-## Execution
+## Building the Database
 
 ![Entity Relationship Diagram](/static/img/ERD_svilag.png)
 
@@ -44,11 +44,3 @@ To test it, I chose some questions that I wanted to know the answers to based on
 
 >**Query Results:**
 >![Query Results](/static/img/query-results.jpg)
-
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
-
-The database was executed successfully! :tada:
-

@@ -34,11 +34,19 @@ As part of a course in Interaction Design, I designed and prototyped an applicat
 
 ### Key Issues
 
+
+
 ### Framing
+
+
 
 ### User interviews
 
+To gather information about what user needs and feelings regarding the topic, I interviewed five individuals and asked them a set of questions about their eating habits, things they typically buy at the grocery store, etc., in order to get an idea of what some of the positive and negative points of eating with or without a food allergy. I interviewed people that were adhereing to vegetarian, dairy free, and gluten free diets, and people that had no dietary restrictions. This variety of interviewees enabled me to gain valuable insight into the needs of people dealing with different food allergies.
+
 ### Competitor Analysis
+
+To further gain an understanding of the space this app could be competing in, I took a look at the surrounding market, identifying other applications and websites that offered similar servcies or that competed in a similar space. These are the competitors I 
 
 ### Centering the User in the Design
 
