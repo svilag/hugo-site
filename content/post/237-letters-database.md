@@ -31,16 +31,22 @@ As part of a course on SQL and Databases, I created a database in MySQL from the
 
 ![Entity Relationship Diagram](/static/img/ERD_svilag.png)
 
-The data I started with was collected in one single CSV file. This obviously needed to be processed so that the data could be imported to a database that would be easy to query. Using a combination of Google sheets and the Python CSV library, I took the original CSV and filtered through the data I needed to in order to create six tables. [Link to Python Notebook](https://deepnote.com/@svilag/564-final-project-data-Ey9oy3grRCiMjgwOmTwzNQ)
+The data I started with was collected in one single CSV file. This obviously needed to be processed so that the data could be imported to a database that would be easy to query. Using a combination of Google sheets and the Python CSV library, I took the original CSV and filtered through the data I needed to in order to create six tables.
 
+[Link to Python Notebook](https://deepnote.com/@svilag/564-final-project-data-Ey9oy3grRCiMjgwOmTwzNQ)
 
-To test it, I chose some questions that I wanted to know the answers to based on the data, and created queries for those questions. The most fun query to put together required a join of all six tables in the database.
+To test that the data was all in the database and linked properly, I chose some questions that I wanted to know the answers to based on the data, and created queries for those questions. The goal wasn't to do a deep analysis of the data, but get some basic statistics. The most interesting query to put together required a join of all six tables in the database.
 
 #### What letter was sent for the most reasons? What was the quote?
 
-> **Query:** `SELECT cat.category, cl.letter_id, p.name, c.city, l.quote FROM categories cat JOIN cat_link cl on cat.cat_id=cl.cat_id JOIN letters l on l.letter_id=cl.letter_id JOIN cities c on c.city_id=l.city_id JOIN people_link pl on l.letter_id=pl.letter_id JOIN people p on pl.person_id=p.person_id WHERE cl.letter_id = 160 AND p.role LIKE 'sender';`
+**Query:** `SELECT cat.category, cl.letter_id, p.name, c.city, l.quote FROM categories cat JOIN cat_link cl on cat.cat_id=cl.cat_id JOIN letters l on l.letter_id=cl.letter_id JOIN cities c on c.city_id=l.city_id JOIN people_link pl on l.letter_id=pl.letter_id JOIN people p on pl.person_id=p.person_id WHERE cl.letter_id = 160 AND p.role LIKE 'sender';`
 
 > **Quote:** "He is a radical and is bound to infect the minds of the student body. Anarchists, Radicals, Socialists, and Communists should not be allowed on our campuses." &mdash;_P. H. MacBride, from Brighton_
 
->**Query Results:**
->![Query Results](/static/img/query-results.jpg)
+**Query Results:**
+category | letter_id | name | city | quote
+:-- | :--: | :-- | :-- | :--
+Revolutionary Activities | 160 | P. H. MacBride | Brighton | "He is a radical and is bound to infect the minds of the student body. Anarchists, Radicals, Socialists, and Communists should not be allowed on our campuses."
+Communism | 160 | P. H. MacBride | Brighton | "He is a radical and is bound to infect the minds of the student body. Anarchists, Radicals, Socialists, and Communists should not be allowed on our campuses."
+Anarchism | 160 | P. H. MacBride | Brighton | "He is a radical and is bound to infect the minds of the student body. Anarchists, Radicals, Socialists, and Communists should not be allowed on our campuses."
+Youth Influence | 160 | P. H. MacBride | Brighton | "He is a radical and is bound to infect the minds of the student body. Anarchists, Radicals, Socialists, and Communists should not be allowed on our campuses."
