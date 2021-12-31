@@ -1,7 +1,7 @@
 +++
 date = "2016-11-05T21:05:33+05:30"
 title = "Resume"
-categories = ['Resume']
+categories = []
 tags = ['Education', 'Experience', 'Volunteer Experience', 'Awards/Recognitions']
 +++
 
