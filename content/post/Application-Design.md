@@ -21,34 +21,34 @@ As part of a course in Interaction Design, I designed and prototyped an applicat
 
 **The Process:**
 
-1. First I had to frame the problem I was trying to find a solution for. What are the key issues?
-2. Then, I had to Analyze my framing of that problem. Is there room for revision?
-3. Next I had to get to know my potential users. Who needs this type of solution? What are those needs?
-4. I then took a look at the market. What other products exist that are similar? Who are the main competitors?
-5. The next step, after knowing a bit about the users and the other products available, was creating personas for potential users to conceptualize interactions with this application.
-6. These personas guided me in creating a user flow diagram of how a user could potentially interact with this application.
-7. From that user flow diagram, I was able to create an interaction map of these user interactions.
-8. After
+1. Frame the problem. What are the key issues?
+2. Get to know the users. Who needs this type of solution? What are those needs?
+3. Get to know the competitors and others in the market. What other products exist that are similar? Who are the main competitors?
+4. Create personas.
+5. Map the User Flow.
+6. Map the User Interactions.
+7. Wireframe Prototype.
+8. Low-Fidelity Prototype.
+9. Mid-fidelity Prototype.
 
 ## Pulling it All Together
 
-### Key Issues
+### The Problem
+
+
+### The Users
 
 
 
-### Framing
-
-
-
-### User interviews
+#### User interviews
 
 To gather information about what user needs and feelings regarding the topic, I interviewed five individuals and asked them a set of questions about their eating habits, things they typically buy at the grocery store, etc., in order to get an idea of what some of the positive and negative points of eating with or without a food allergy. I interviewed people that were adhereing to vegetarian, dairy free, and gluten free diets, and people that had no dietary restrictions. This variety of interviewees enabled me to gain valuable insight into the needs of people dealing with different food allergies.
 
-### Competitor Analysis
+### The Market
 
-To further gain an understanding of the space this app could be competing in, I took a look at the surrounding market, identifying other applications and websites that offered similar servcies or that competed in a similar space. These are the competitors I 
+To further gain an understanding of the space this app could be competing in, I took a look at the surrounding market, identifying other applications and websites that offered similar servcies or that competed in a similar space.
 
-### Centering the User in the Design
+### Personas
 
 The information gained from my interviews was helpful, and enabled me to formalate some user personas of people who may use the application. These personas center the design problem around the thing that matters most in desigm: the people using the tools.
 
@@ -56,7 +56,3 @@ The information gained from my interviews was helpful, and enabled me to formala
 ![](persona)
 ![](persona)
 ![](persona)
-
-From these personas, I was able to discern a user flow for the interactoins within the application. 
-
-![](user flow)
