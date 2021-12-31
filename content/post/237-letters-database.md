@@ -50,3 +50,7 @@ Revolutionary Activities | 160 | P. H. MacBride | Brighton | "He is a radical an
 Communism | 160 | P. H. MacBride | Brighton | "He is a radical and is bound to infect the minds of the student body. Anarchists, Radicals, Socialists, and Communists should not be allowed on our campuses."
 Anarchism | 160 | P. H. MacBride | Brighton | "He is a radical and is bound to infect the minds of the student body. Anarchists, Radicals, Socialists, and Communists should not be allowed on our campuses."
 Youth Influence | 160 | P. H. MacBride | Brighton | "He is a radical and is bound to infect the minds of the student body. Anarchists, Radicals, Socialists, and Communists should not be allowed on our campuses."
+
+## Outcomes
+
+This project gave me an in-depth hands-on look at building and querying a database using MySQL. Each table that went into this database came from one set of data that I had to figure out how to normalize into tables suitable for a database that would be optimal for querying. Overall, I enjoyed this project and look forward to working more with databases and SQL!
