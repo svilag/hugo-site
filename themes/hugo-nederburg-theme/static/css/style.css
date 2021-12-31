@@ -1,4 +1,15 @@
 /* your styles go here */
+h1 a:hover, #site-title a:hover, .social-media-icons li a:hover, .social-media-icons li a:active, 
+ .social-media-icons li a i:hover, 
+.social-media-icons li a i:active, .menu-primary-items li a:hover, #menu-secondary-items li a:hover
+{
+  color: #d34227
+}
+
+.entry-meta{
+  visibility: hidden
+}
+
 @charset "UTF-8";
 /*
 Theme Name: Tracks
