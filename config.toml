@@ -125,3 +125,6 @@ paginate = 15 #frontpage pagination
     Design = 'Designs'
     Research = 'Research'
     Resume = 'Resumes'
+    Classwork = 'Classwork'
+    Personal = 'Personal'
+    Blurb = 'Blurbs'

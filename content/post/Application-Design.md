@@ -6,7 +6,7 @@ date = "2021-12-09T20:23:59+05:30"
 title = "Interactive Application Design"
 writer = "Shelbie Vilag"
 weight = 11
-tags = ['UX', 'Design', 'Research']
+tags = ['UX', 'Design', 'Research', 'Classwork']
 categories = ['Projects']
 +++
 
