@@ -35,24 +35,31 @@ As part of a course in Interaction Design, I designed and prototyped an applicat
 
 ### The Problem
 
+I explored a problem that people with food allergies face when eating out. Often times it can be difficult to find suitable places to eat to ensure they won't get sick from cross contamination or unknowledgable staff, or any other reasons. This is a particular problem for people with gluten sensitive conditions, such as Celiac Disease and non-Celiac sensitivity, but there is a similar problem for people with other food allergies as well. Current applications that enable restaurant search are not very good at picking out the allergen-friendly locations, and very often include results that are not even relevant, frustrating the user and making them spend more time researching a safe place to eat.
 
 ### The Users
-
-
 
 #### User interviews
 
 To gather information about what user needs and feelings regarding the topic, I interviewed five individuals and asked them a set of questions about their eating habits, things they typically buy at the grocery store, etc., in order to get an idea of what some of the positive and negative points of eating with or without a food allergy. I interviewed people that were adhereing to vegetarian, dairy free, and gluten free diets, and people that had no dietary restrictions. This variety of interviewees enabled me to gain valuable insight into the needs of people dealing with different food allergies.
 
-### The Market
+#### The Market
 
 To further gain an understanding of the space this app could be competing in, I took a look at the surrounding market, identifying other applications and websites that offered similar servcies or that competed in a similar space.
 
-### Personas
+![](market competitors)
 
-The information gained from my interviews was helpful, and enabled me to formalate some user personas of people who may use the application. These personas center the design problem around the thing that matters most in desigm: the people using the tools.
+#### Personas
+
+The information gained from my interviews was helpful, and enabled me to formalate some user personas of people who may use the application. Knowing a bit about the other solutions available on the market was also helpful in conceptualizing this user base. These personas, while fictional scenarios, center the design problem around the thing that matters most in desigm: the people using the tools.
 
 ![](persona)
 ![](persona)
 ![](persona)
 ![](persona)
+
+### The Prototypes
+
+#### Wireframes
+
+#### Mid-Fidelity
