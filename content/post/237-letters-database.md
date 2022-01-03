@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 image = "/static/img/ERD_svilag.png"
 showonlyimage = true
 date = "2021-12-06T20:23:59+05:30"
