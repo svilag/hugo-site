@@ -21,10 +21,10 @@ For this data paper, myself and my colleagues analyzed a dataset of deleted twee
 
 **Table of Contents:**
 
-1. Overview 
-2. Dataset Description 
-3. Methods 
-4. Reuse Potential and Significant Properties 
+1. Overview
+2. Dataset Description
+3. Methods
+4. Reuse Potential and Significant Properties
 5. Threat Assessment References
 
 [^1]: [Politwoops site on ProPublica](https://projects.propublica.org/politwoops/)
