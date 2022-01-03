@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 image = "static/img/data-paper-screenshot.jpg"
 showonlyimage = true
 date = "2021-03-06T20:23:59+05:30"
@@ -17,7 +17,9 @@ For this data paper, myself and my colleagues analyzed a dataset of deleted twee
 
 ### [Read the data paper here](https://svilag.github.io/SI667-Data-Paper/)
 
-#### Table of Contents
+**Abstract:** Politwoops is a digital archive hosted by ProPublica which publishes deleted tweets from public political officials or individuals campaigning to hold public office, while the accompanying dataset, in the form of a downloadable CSV file, offers further information on the owners of the accounts themselves such as political party, Twitter ID, and official government title. The tweets are collected using the Twitter API; Politwoops has its own Twitter account through which it follows officials and collects their tweets, taking note of which ones are subsequently deleted. The information in the CSV file is updated according to the needs of the archive; individuals who are no longer public figures and no longer tracked by the organization are removed from the file, while others are added when needed.
+
+**Table of Contents:**
 
 1. Overview 
 2. Dataset Description 
