@@ -10,6 +10,31 @@ h1 a:hover, #site-title a:hover, .social-media-icons li a:hover, .social-media-i
   visibility: hidden
 }
 
+.entry-title{
+  transition:  0.2s ease;
+  -webkit-transition: all 0.2s ease;
+}
+
+.entry-title:hover{
+  color: #d34227;
+}
+
+.entry-content article p:last-of-type{
+  display: flex;
+  flex-flow: wrap;
+}
+
+.entry-content article p:last-of-type img{
+  max-width: 50%;
+  transition:transform 0.25s ease;
+}
+
+.entry-content article p:last-of-type img:hover{
+  -webkit-transform:scale(1.5);
+  transform:scale(1.5)
+}
+
+
 @charset "UTF-8";
 /*
 Theme Name: Tracks

@@ -47,18 +47,18 @@ To gather information about what user needs and feelings regarding the topic, I 
 
 To further gain an understanding of the space this app could be competing in, I took a look at the surrounding market, identifying other applications and websites that offered similar servcies or that competed in a similar space.
 
-![](market competitors)
+![Market competitors](/static/img/comp_analysis_svilag.jpg)
 
 #### Personas
 
 The information gained from my interviews was helpful, and enabled me to formalate some user personas of people who may use the application. Knowing a bit about the other solutions available on the market was also helpful in conceptualizing this user base. These personas, while fictional scenarios, center the design problem around the thing that matters most in desigm: the people using the tools.
 
-![](persona)
-![](persona)
-![](persona)
-![](persona)
+![Persona](/static/img/jeremy.png)
+![Persona](/static/img/ana.png)
+![Persona](/static/img/jessie.png)
+![Persona](/static/img/richard.png)
 
-### The Prototypes
+### Building the Prototypes
 
 #### Wireframes
 
