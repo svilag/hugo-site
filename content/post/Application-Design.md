@@ -21,15 +21,15 @@ As part of a course in Interaction Design, I designed and prototyped an applicat
 
 **The Process:**
 
-1. Frame the problem. What are the key issues?
-2. Get to know the users. Who needs this type of solution? What are those needs?
-3. Get to know the competitors and others in the market. What other products exist that are similar? Who are the main competitors?
-4. Create personas.
-5. Map the User Flow.
-6. Map the User Interactions.
-7. Wireframe Prototype.
-8. Low-Fidelity Prototype.
-9. Mid-fidelity Prototype.
+1. **Frame** the problem. What are the key issues?
+2. Get to know the **users**. Who needs this type of solution? What are those needs?
+3. Get to know the **competitors** and others in the **market**. What other products exist that are similar? Who are the main competitors?
+4. Create **personas**.
+5. Map the **User Flow**.
+6. Map the **User Interactions**.
+7. **Wireframe** Prototype.
+8. **Low-Fidelity** Prototype.
+9. **Mid-fidelity** Prototype.
 
 ## Pulling it All Together
 
@@ -51,7 +51,7 @@ To further gain an understanding of the space this app could be competing in, I 
 
 #### Personas
 
-The information gained from my interviews was helpful, and enabled me to formalate some user personas of people who may use the application. Knowing a bit about the other solutions available on the market was also helpful in conceptualizing this user base. These personas, while fictional scenarios, center the design problem around the thing that matters most in desigm: the people using the tools.
+The information gained from my interviews was helpful, and enabled me to formulate some user personas of people who may use the application. Knowing a bit about the other solutions available on the market was also helpful in conceptualizing this user base. These personas, while fictional scenarios, center the design problem around the thing that matters most in design: the people using the tools.
 
 ![Persona](/static/img/jeremy.png)
 ![Persona](/static/img/ana.png)

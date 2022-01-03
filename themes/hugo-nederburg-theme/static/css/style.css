@@ -1,10 +1,14 @@
 /* your styles go here */
 h1 a:hover, #site-title a:hover, .social-media-icons li a:hover, .social-media-icons li a:active, 
  .social-media-icons li a i:hover, 
-.social-media-icons li a i:active, .menu-primary-items li a:hover, #menu-secondary-items li a:hover
+.social-media-icons li a i:active, .menu-primary-items li a:hover, #menu-secondary-items li a:hover, .author-meta a
 {
   color: #d34227
 }
+
+/* .entry-tags a:hover{
+  color: #9b1d21;
+} */
 
 .entry-meta{
   visibility: hidden
@@ -17,18 +21,18 @@ h1 a:hover, #site-title a:hover, .social-media-icons li a:hover, .social-media-i
 		transform:         translateY(0)
 	}
 	40% {
-		-webkit-transform: translateY(-30px);
-		-ms-transform:     translateY(-30px);
-		transform:         translateY(-30px)
-	}
-	60% {
 		-webkit-transform: translateY(-15px);
 		-ms-transform:     translateY(-15px);
 		transform:         translateY(-15px)
 	}
+	60% {
+		-webkit-transform: translateY(-10px);
+		-ms-transform:     translateY(-10px);
+		transform:         translateY(-10px)
+	}
 }
 
-.entry-title{
+.entry-title, .social-media-icons a, .menu-item a{
   animation-duration: 1s;
   -webkit-animation-duration: 1s;
   -webkit-animation-fill-mode: both;
@@ -37,8 +41,13 @@ h1 a:hover, #site-title a:hover, .social-media-icons li a:hover, .social-media-i
   animation-timing-function: ease-in-out;
 }
 
-.entry-title:hover{
+.entry-title:hover, .menu-item a:hover{
   color: #d34227;
+  animation-name: bounce;
+  -moz-animation-name: bounce;
+}
+
+.social-media-icons a:hover{
   animation-name: bounce;
   -moz-animation-name: bounce;
 }
@@ -54,8 +63,8 @@ h1 a:hover, #site-title a:hover, .social-media-icons li a:hover, .social-media-i
 }
 
 .entry-content article p:last-of-type img:hover{
-  -webkit-transform:scale(1.5);
-  transform:scale(1.5)
+  -webkit-transform:scale(1.75);
+  transform:scale(1.75)
 }
 
 

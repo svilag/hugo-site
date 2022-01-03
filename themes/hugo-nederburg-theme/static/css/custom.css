@@ -1076,7 +1076,8 @@ a img {
 .entry-tags a:hover,
 .entry-tags a:active,
 .entry-tags a:focus {
-  color: black;
+  /* color: black; */
+  color: #9b1d21;
 }
 
 .entry-categories a,
@@ -1099,9 +1100,11 @@ a img {
 }
 .author-meta a:link, .author-meta a:visited {
   color: #8c8c8c;
+  /* color: #d34227; */
 }
 .author-meta a:hover, .author-meta a:active, .author-meta a:focus {
-  color: white;
+  /* color: white; */
+  color: #d34227;
 }
 .author-meta p {
   clear: both;
