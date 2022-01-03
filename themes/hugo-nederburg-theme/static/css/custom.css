@@ -1077,7 +1077,8 @@ a img {
 .entry-tags a:active,
 .entry-tags a:focus {
   /* color: black; */
-  color: #9b1d21;
+  /* color: #9b1d21; */
+  color: #d34227;
 }
 
 .entry-categories a,
