@@ -32,9 +32,10 @@ h1 a:hover, #site-title a:hover, .social-media-icons li a:hover, .social-media-i
 	}
 }
 
-/* @media (prefers-reduced-motion) {
+/* @media screen and (prefers-reduced-motion: reduce) {
   .entry-title:hover, .menu-item a:hover, .entry-title, .social-media-icons a, .menu-item a, .social-media-icons a:hover {
     animation-name: bounce;
+    animation: none;
   } */
 
 .entry-title, .social-media-icons a, .menu-item a{
@@ -72,9 +73,9 @@ h1 a:hover, #site-title a:hover, .social-media-icons li a:hover, .social-media-i
   transform:scale(1.75)
 }
 
-.resume-no-tags, .resume-no-cats{
+/* .resume-no-tags, .resume-no-cats{
   visibility: hidden
-}
+} */
 
 #master-of-science-information-science + p, #minors-historic-preservation-music + p {
   /* border: 2px solid; */
@@ -83,6 +84,17 @@ h1 a:hover, #site-title a:hover, .social-media-icons li a:hover, .social-media-i
   background: rgb(140, 140, 140, .25);
   border-radius: 5px
 }
+
+
+
+
+
+
+
+
+
+
+
 
 
 @charset "UTF-8";

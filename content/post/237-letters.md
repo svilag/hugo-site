@@ -6,7 +6,7 @@ date = "2019-12-06T20:23:59+05:30"
 title = "237 Letters"
 writer = "Shelbie Vilag"
 weight = 11
-categories = ['Classwork', 'Projects']
+categories = ['Classwork', 'Papers', 'Projects']
 tags = ['Civil Rights', 'GIS', 'History', 'Research']
 +++
 

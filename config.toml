@@ -123,11 +123,11 @@ paginate = 15 #frontpage pagination
   Code = 'Code'
   Paper = 'Papers'
   Classwork = 'Classwork'
+  UX = 'UX'
   #tags
   SQL = 'SQL'
   History = 'History'
   Database = 'Databases'
-  UX = 'UX'
   Design = 'Designs'
   Research = 'Research'
   Personal = 'Personal'
