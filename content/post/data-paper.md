@@ -6,8 +6,8 @@ date = "2021-03-06T20:23:59+05:30"
 title = "Politwoops Data Paper"
 writer = "Shelbie Vilag"
 weight = 11
-tags = ['Digital Curation', 'Data', 'Research', 'Classwork']
-categories = ['Essays']
+tags = ['Digital Curation', 'Data', 'Research']
+categories = ['Papers','Classwork']
 +++
 
 As part of a course in Digital Curation, I coauthored a data paper titled, "Exploring the Tweets They Didn’t Want Us To See: Tweet Contents and Account Data from the Politwoops Archive".

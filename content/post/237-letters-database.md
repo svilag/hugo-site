@@ -6,8 +6,8 @@ date = "2021-12-06T20:23:59+05:30"
 title = "237 Letters in a Database"
 writer = "Shelbie Vilag"
 weight = 11
-tags = ['SQL', 'Databases', 'History', 'Classwork']
-categories = ['Projects']
+tags = ['SQL', 'Databases', 'History']
+categories = ['Projects', 'Code', 'Classwork']
 +++
 
 As part of a course on SQL and Databases, I created a database in MySQL from the data collected from my Undergraduate Capstone project, "_237 Letters_".

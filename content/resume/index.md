@@ -1,8 +1,8 @@
 +++
 date = "2016-11-05T21:05:33+05:30"
 title = "Resume"
-categories = []
-tags = ['Education', 'Experience', 'Volunteer Experience', 'Awards/Recognitions']
+#categories = ['Resume']
+#tags = ['Education', 'Experience', 'Volunteer Experience', 'Awards/Recognitions']
 +++
 
 Shelbie Vilag is a graduate student at the University of Michigan School of Information studying Information Science, graduating in May 2022. Academic interests include HCI, databases, UX, and digital curation.

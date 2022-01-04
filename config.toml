@@ -117,14 +117,20 @@ paginate = 15 #frontpage pagination
 
 # categories test
   [params.taxonomies]
-    Projects = 'Projects'
-    SQL = 'SQL'
-    History = 'History'
-    Database = 'Databases'
-    UX = 'UX'
-    Design = 'Designs'
-    Research = 'Research'
-    Resume = 'Resumes'
-    Classwork = 'Classwork'
-    Personal = 'Personal'
-    Blurb = 'Blurbs'
+  #categories
+  Projects = 'Projects'
+  Resume = 'Resumes'
+  Code = 'Code'
+  Paper = 'Papers'
+  Classwork = 'Classwork'
+  #tags
+  SQL = 'SQL'
+  History = 'History'
+  Database = 'Databases'
+  UX = 'UX'
+  Design = 'Designs'
+  Research = 'Research'
+  Personal = 'Personal'
+  Blurb = 'Blurbs'
+  Volunteer = 'Volunteers'
+  Consulting = 'Consulting'

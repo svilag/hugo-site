@@ -6,8 +6,8 @@ date = "2021-12-09T20:23:59+05:30"
 title = "Interactive Application Design"
 writer = "Shelbie Vilag"
 weight = 11
-tags = ['UX', 'Design', 'Research', 'Classwork']
-categories = ['Projects']
+tags = ['UX', 'Design', 'Research']
+categories = ['Projects', 'Classwork']
 +++
 
 As part of a course in Interaction Design, I designed and prototyped an application utilizing different user research techniques including competitive analysis, interviews, creating personas, story mapping, creating user flow diagrams, and prototyping in Adobe XD. My prototype focused on helping people with food allergies find places to eat near them that offered allergen friendly options.
