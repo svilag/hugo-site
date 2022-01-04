@@ -1,8 +1,8 @@
 +++
 date = "2016-11-05T21:05:33+05:30"
 title = "Resume"
-#categories = ['Resume']
-#tags = ['Education', 'Experience', 'Volunteer Experience', 'Awards/Recognitions']
+categories = ['Classwork', 'Code', 'Papers', 'Projects', 'UX']
+tags = ['CSS', 'Consulting', 'Data', 'Databases', 'Design', 'Development', 'Digital Curation', 'HTML', 'History', 'JavaScript', 'Research', 'SQL']
 +++
 
 Shelbie Vilag is a graduate student at the University of Michigan School of Information studying Information Science, graduating in May 2022. Academic interests include HCI, databases, UX, and digital curation.
@@ -13,13 +13,12 @@ Shelbie Vilag is a graduate student at the University of Michigan School of Info
 
 #### Master of Science, Information Science
 
-Activities: |
-:--|
-Google Developer Student Club |
-UM*py*: Python Study Group |
-Michigan Esports |
-Americal Library Association |
-Society of American Archivists |
+**Activities:**
+Google Developer Student Club **|** 
+UM*py*: Python Study Group **|**
+Michigan Esports **|** 
+Americal Library Association **|** 
+Society of American Archivists
 
 ### Eastern Michigan University
 
@@ -27,11 +26,10 @@ Society of American Archivists |
 
 ##### Minors: Historic Preservation, Music
 
-Activities: |
-:-- |
-Undergraduate Symposium |
-Mark Jefferson Symposium Volunteer |
-Marching Band |
+**Activities:**
+Undergraduate Symposium **|**
+Mark Jefferson Symposium Volunteer **|**
+Marching Band
 
 ## Experience
 
