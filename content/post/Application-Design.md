@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 image = "static/img/adobexd.jpg"
 showonlyimage = true
 date = "2021-12-09T20:23:59+05:30"
@@ -51,7 +51,7 @@ To further gain an understanding of the space this app could be competing in, I 
 
 #### Personas
 
-The information gained from my interviews was helpful, and enabled me to formulate some user personas of people who may use the application. Knowing a bit about the other solutions available on the market was also helpful in conceptualizing this user base. These personas, while fictional scenarios, center the design problem around the thing that matters most in design: the people using the tools.
+The information gained from the user interviews was helpful, and enabled me to formulate some user personas of people who may use the application. Knowing a bit about the other solutions available on the market was also helpful in conceptualizing this user base. These personas, while fictional scenarios, center the design problem around the thing that matters most in design: the people using the tools.
 
 ![Persona](/static/img/jeremy.png)
 ![Persona](/static/img/ana.png)
@@ -60,6 +60,6 @@ The information gained from my interviews was helpful, and enabled me to formula
 
 ### Building the Prototypes
 
-#### Wireframes
+Each prototype was assembled using Adobe Creative Cloud products, including Illustrator and XD. Two different fidelity prototypes were created, including a low-fidelity wireframe and a mid-fidelity interactive prototype. The wireframes were helpful to get a basic feel of how interactions would flow within the app. The wireframe prototype also helped to pinpoint some areas where the design could use improvement. From the wireframes, the mid-fidelity prototype was built, adding more detail including text, some images, and assigning interactions withing Adobe XD.
 
-#### Mid-Fidelity
+[View Prototype Demonstration (download .mp4)](https://github.com/svilag/hugo-site/blob/main/content/static/img/svilag/myhappytummy_prototype.mp4?raw=true)

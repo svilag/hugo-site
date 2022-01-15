@@ -1,7 +1,8 @@
 /* your styles go here */
 h1 a:hover, #site-title a:hover, .social-media-icons li a:hover, .social-media-icons li a:active, 
  .social-media-icons li a i:hover, 
-.social-media-icons li a i:active, .menu-primary-items li a:hover, #menu-secondary-items li a:hover, .author-meta a
+.social-media-icons li a i:active, .menu-primary-items li a:hover, #menu-secondary-items li a:hover, .author-meta a,
+p a:hover, h3 a:hover, li strong, p strong
 {
   color: #d34227
 }
@@ -15,6 +16,24 @@ h1 a:hover, #site-title a:hover, .social-media-icons li a:hover, .social-media-i
 }
 
 @keyframes bounce {
+  0%, 100%, 20%, 50%, 80% {
+		-webkit-transform: translateY(0);
+		-ms-transform:     translateY(0);
+		transform:         translateY(0)
+	}
+	40% {
+		-webkit-transform: translateY(-15px);
+		-ms-transform:     translateY(-15px);
+		transform:         translateY(-15px)
+	}
+	60% {
+		-webkit-transform: translateY(-10px);
+		-ms-transform:     translateY(-10px);
+		transform:         translateY(-10px)
+	}
+}
+
+@-webkit-keyframes bounce {
   0%, 100%, 20%, 50%, 80% {
 		-webkit-transform: translateY(0);
 		-ms-transform:     translateY(0);
@@ -57,6 +76,14 @@ h1 a:hover, #site-title a:hover, .social-media-icons li a:hover, .social-media-i
   animation-name: bounce;
   -moz-animation-name: bounce;
 }
+
+/* .site-footer .social-media-icons li a:hover{
+  animation-name: bounce;
+  -moz-animation-name: bounce;
+  animation: none;
+} */
+
+
 
 .entry-content article p:last-of-type{
   display: flex;
