@@ -7,7 +7,8 @@ title = "237 Letters"
 writer = "Shelbie Vilag"
 weight = 11
 categories = ['Classwork', 'Papers', 'Projects']
-tags = ['Civil Rights', 'GIS', 'History', 'Research']
+tags = ['Civil Rights', 'GIS', 'History', 'Research', 'ArcGIS']
+
 +++
 
 For my Undergraduate capstone project in History at Eastern Michigan University, I conducted research at the University archives at EMU. I looked at a series of 237 letters that were sent to EMU Regents in protest of Civil Rights Activist Julian Bond speaking at the January 1971 commencement ceremony and recipient of an Honorary Doctor of Laws Degree from the university. I also mapped the city of origin of these letters using ArcGIS.

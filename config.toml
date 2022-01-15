@@ -134,3 +134,4 @@ paginate = 15 #frontpage pagination
   Blurb = 'Blurbs'
   Volunteer = 'Volunteers'
   Consulting = 'Consulting'
+  arcgis = 'ArcGIS'
