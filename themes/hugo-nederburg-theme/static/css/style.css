@@ -22,14 +22,14 @@ p a:hover, h3 a:hover, li strong, p strong
 		transform:         translateY(0)
 	}
 	40% {
-		-webkit-transform: translateY(-15px);
-		-ms-transform:     translateY(-15px);
-		transform:         translateY(-15px)
-	}
-	60% {
 		-webkit-transform: translateY(-10px);
 		-ms-transform:     translateY(-10px);
 		transform:         translateY(-10px)
+	}
+	60% {
+		-webkit-transform: translateY(-8px);
+		-ms-transform:     translateY(-8px);
+		transform:         translateY(-8px)
 	}
 }
 
@@ -40,14 +40,14 @@ p a:hover, h3 a:hover, li strong, p strong
 		transform:         translateY(0)
 	}
 	40% {
-		-webkit-transform: translateY(-15px);
-		-ms-transform:     translateY(-15px);
-		transform:         translateY(-15px)
-	}
-	60% {
 		-webkit-transform: translateY(-10px);
 		-ms-transform:     translateY(-10px);
 		transform:         translateY(-10px)
+	}
+	60% {
+		-webkit-transform: translateY(-8px);
+		-ms-transform:     translateY(-8px);
+		transform:         translateY(-8px)
 	}
 }
 
@@ -104,7 +104,7 @@ p a:hover, h3 a:hover, li strong, p strong
   visibility: hidden
 } */
 
-#master-of-science-information-science + p, #minors-historic-preservation-music + p {
+#the-university-of-michigan-school-of-information + p, #minors-historic-preservation-music + p {
   /* border: 2px solid; */
   /* padding: 0px 10px 0px 10px; */
   padding: 10px;

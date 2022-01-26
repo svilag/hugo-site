@@ -5,31 +5,30 @@ categories = ['Classwork', 'Code', 'Papers', 'Projects', 'UX']
 tags = ['CSS', 'Consulting', 'Data', 'Databases', 'Design', 'Development', 'Digital Curation', 'HTML', 'History', 'JavaScript', 'Research', 'SQL']
 +++
 
-Shelbie Vilag is a graduate student at the University of Michigan School of Information studying Information Science, graduating in May 2022. Academic interests include HCI, databases, UX, and digital curation.
+Shelbie Vilag is a graduate student at the University of Michigan School of Information studying Information Science, graduating in May 2022.
 
 ## Education
 
-### University of Michigan
+### Master of Science, Information Science
 
-#### Master of Science, Information Science
+#### The University of Michigan School of Information
 
 **Activities:**
-Google Developer Student Club **|** 
-UM*py*: Python Study Group **|**
-Michigan Esports **|** 
 Americal Library Association **|** 
-Society of American Archivists
+Google Developer Student Club **|** 
+Michigan Esports **|** 
+Society of American Archivists **|** 
+UM*py*: Python Study Group
 
-### Eastern Michigan University
+### Bachelor of Science, History
 
-#### Bachelor of Science, History
+#### Eastern Michigan University
 
 ##### Minors: Historic Preservation, Music
 
 **Activities:**
-Undergraduate Symposium **|**
-Mark Jefferson Symposium Volunteer **|**
-Marching Band
+Marching Band **|** 
+Undergraduate Symposium
 
 ## Experience
 
