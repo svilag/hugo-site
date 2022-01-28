@@ -77,25 +77,18 @@ p a:hover, h3 a:hover, li strong, p strong
   -moz-animation-name: bounce;
 }
 
-/* .site-footer .social-media-icons li a:hover{
-  animation-name: bounce;
-  -moz-animation-name: bounce;
-  animation: none;
-} */
-
-
-
-.entry-content article p:last-of-type{
+#personas + p + p{
   display: flex;
   flex-flow: wrap;
+  gap: 5px;
 }
 
-.entry-content article p:last-of-type img{
-  max-width: 50%;
+#personas + p + p img{
+  max-width: 45%;
   transition:transform 0.25s ease;
 }
 
-.entry-content article p:last-of-type img:hover{
+#personas + p + p img:hover{
   -webkit-transform:scale(1.75);
   transform:scale(1.75)
 }
@@ -104,7 +97,10 @@ p a:hover, h3 a:hover, li strong, p strong
   visibility: hidden
 } */
 
-#the-university-of-michigan-school-of-information + p, #minors-historic-preservation-music + p {
+#the-university-of-michigan-school-of-information + p, #minors-historic-preservation-music + p,
+#the-center-for-digital-curricula-at-the-college-of-engineering-the-university-of-michigan + p,
+#hatcher-graduate-library-the-university-of-michigan + p,
+#internet-archives + p, #prime-research + p, #lake-effect-percussion + p {
   /* border: 2px solid; */
   /* padding: 0px 10px 0px 10px; */
   padding: 10px;

@@ -11,55 +11,64 @@ Shelbie Vilag is a graduate student at the University of Michigan School of Info
 
 ### Master of Science, Information Science
 
-#### The University of Michigan School of Information
+#### **The University of Michigan School of Information**
 
 **Activities:**
-Americal Library Association **|** 
-Google Developer Student Club **|** 
-Michigan Esports **|** 
-Society of American Archivists **|** 
+Americal Library Association **|**
+Google Developer Student Club **|**
+Michigan Esports **|**
+Society of American Archivists **|**
 UM*py*: Python Study Group
+
+**Projects:**
+
 
 ### Bachelor of Science, History
 
-#### Eastern Michigan University
+#### **Eastern Michigan University**
 
 ##### Minors: Historic Preservation, Music
 
 **Activities:**
-Marching Band **|** 
+Marching Band **|**
 Undergraduate Symposium
 
 ## Experience
 
-### Hatcher Graduate Library
+### UX Research Intern | January 2022 - April 2022
 
-#### Library Assistant | September 2020 - Present
+#### **The Center for Digital Curricula at the College of Engineering, The University of Michigan**
+
+usresearchintern
+
+### Library Assistant | September 2020 - Present
+
+#### **Hatcher Graduate Library, The University of Michigan**
 
 libassistant
 
-### Internet Archives
+### Micrifiche Packer | July 2019 - November 2019
 
-#### Micrifiche Packer | July 2019 - November 2019
+#### **Internet Archives**
 
 internetarch
 
-### Prime Research
+### News Analyst | April 2016 - May 2019
 
-#### News Analyst | April 2016 - May 2019
+#### **Prime Research**
 
 newsanalyst
 
 ## Volunteer Experience
 
-### Lake Effect Percussion
+### Cymbal and Visual Technique Instructor
 
-#### Cymbal and Visual Technique Instructor
+#### **Lake Effect Percussion**
 
 Instruct students on proper visual techniques and teach students how to properly play the cymbals. Supervise rehearsals, and assist with performance shows.
 
 ## Awards/Recognitions
 
-- Eastern Michigan History Essay Contest: 2nd place
-- John Phillip Sousa Band Award
-- Student of the Month
+- Eastern Michigan History Essay Contest: 2nd place, 2018
+- John Phillip Sousa Band Award, April 2013
+- Student of the Month, May 2013
