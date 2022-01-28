@@ -10,5 +10,7 @@ categories = ['Classwork', 'Projects', 'UX']
 tags = ['Consulting', 'Research']
 +++
 
+As part of a client-based course on user research methods, I worked with the University of Michigan School of Information Masters of Applied Data Science (UMSI MADS) program alongside a team of students to evalutate the usability of an administrative website used by course operations staff and faculty.
 
 <!--more-->
+
