@@ -22,6 +22,10 @@ UM*py*: Python Study Group
 
 **Projects:**
 
+1. 
+2. 
+3. 
+4. 
 
 ### Bachelor of Science, History
 
@@ -32,6 +36,10 @@ UM*py*: Python Study Group
 **Activities:**
 Marching Band **|**
 Undergraduate Symposium
+
+**Projects**
+
+1. 237 Letters: Primary Source History Research in the Eastern Michigan University Archives
 
 ## Experience
 
