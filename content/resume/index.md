@@ -22,10 +22,10 @@ UM*py*: Python Study Group
 
 **Projects:**
 
-1. 
-2. 
-3. 
-4. 
+1. Design an Interactive Application
+2. Usability Evaluation for UMSI MADS Program
+3. 237 Letters in a Database
+4. Collabrify Flipbook User Research
 
 ### Bachelor of Science, History
 
